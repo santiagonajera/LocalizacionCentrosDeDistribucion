@@ -1,0 +1,14 @@
+CIUDAD	LATITUD	LONGITUD	DEMANDA (PALLETS/AÑO)
+Julio Cesar	-16.5000	-68.1333	5000
+Helen Kespi	-17.8198	-63.2222	7000
+Eduardo Torrico	-17.7912	-63.2182	8000
+Varinia Mier	-17.6749	-63.1822	95000
+Janna Montes	-16.4897	-68.1193	3600
+Aldo Arias	-17.7914	-63.1780	12000
+Brenda Choque	-16.5600	-68.1943	7800
+Ma. René Cáceres	-17.8774	-63.1627	9300
+Elian Guzman	-17.7889	-63.1436	8900
+Victor Salazar	-17.7595	-63.1158	1500
+Ingrid Rocha	-17.7779	-63.1188	7800
+Kalexia Gonzalez	-17.8053	-63.1845	8600
+Jessica Negrete	-17.7772	-63.1578	9300
